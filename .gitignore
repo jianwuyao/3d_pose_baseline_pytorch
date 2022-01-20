@@ -8,7 +8,6 @@ __pycache__/
 *.pyc
 *.jpg
 *.swp
-*.png
 *.tar.gz
 *.zip
 *.tar
